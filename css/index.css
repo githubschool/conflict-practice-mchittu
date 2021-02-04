@@ -15,9 +15,11 @@ body{
 
 }
 
+
 a {
-<<<<<<< HEAD
+
 	color: #000;
+
 }
 
 a:hover{
@@ -26,10 +28,10 @@ a:hover{
 	color: #999999;
 }
 
-a:hover{
-	color: #dddddd;
->>>>>>> master
+=======
+
 }
+**/
 
 #intro_container, #outro_container{
 	width:100%; height:550px;
